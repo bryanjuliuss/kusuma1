@@ -63,14 +63,17 @@ a {
     background: url(noodle1.jpg);
     background-position: left top;
     background-repeat: repeat;
-    padding: 20px; 
+    padding: 0px; 
     width: 400px;
     height: 450px;
     -webkit-transform: rotate(90deg);
-
-
- 
 }
+
+/*.relative {
+    position: relative;
+    left: 30px;
+    border: 3px solid black;
+} */
 
 
 
